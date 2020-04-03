@@ -1,0 +1,9 @@
+.table{
+    width:1400px;
+    height:800px;
+    border:solid 1px;
+}
+.table td{
+    border: solid 1px;
+}
+

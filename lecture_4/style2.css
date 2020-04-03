@@ -1,0 +1,19 @@
+.table{
+    width:1400px;
+    height:800px;
+    border:solid 1px;
+}
+
+.bold{
+    font-weight:bold;
+}
+
+.table td{
+    border: solid 1px;
+}
+.tfoot{
+    background-color:green;
+}
+.tfoot td{
+    height:30px;
+}

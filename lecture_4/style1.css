@@ -1,0 +1,30 @@
+.table{
+    width:1600px;
+    height:600px;
+    border:solid 1px;
+    margin:auto;
+}
+.table td{
+    border: solid 1px;
+}
+.bold_centered{
+    font-weight:bold;
+    text-align:center;
+}
+.gr_it{
+    background-color:lightgreen;
+    font-style:italic;
+}
+.red_b{
+    background-color:red;
+    font-weight:bold;
+}
+.lurji_b{
+    background-color:blue;
+    font-weight:bold;
+}
+.CELLS{
+  
+    background-color:white;
+    text-align:top;
+}
